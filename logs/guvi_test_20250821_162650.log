@@ -1,0 +1,25 @@
+2025-08-21 16:26:50 - TestGUVI - INFO - Initializing WebDriver for TestGUVI
+2025-08-21 16:26:50 - TestGUVI - INFO - Launching Chrome browser with configured options
+2025-08-21 16:26:54 - TestGUVI - INFO - Navigating to application URL: https://www.guvi.in
+2025-08-21 16:26:58 - TestGUVI - INFO - Executing Test Case 1: Verify URL loading
+2025-08-21 16:27:03 - TestGUVI - INFO - Test Case 1 passed: URL loaded successfully
+2025-08-21 16:27:03 - TestGUVI - INFO - Executing Test Case 2: Verify page title
+2025-08-21 16:27:07 - TestGUVI - INFO - Test Case 2 passed: Page title matches expected value
+2025-08-21 16:27:07 - TestGUVI - INFO - Executing Test Case 3: Verify Login button
+2025-08-21 16:27:22 - TestGUVI - INFO - Test Case 3 passed: Login button is visible and clickable
+2025-08-21 16:27:22 - TestGUVI - INFO - Executing Test Case 4: Verify Sign-Up button
+2025-08-21 16:27:33 - TestGUVI - INFO - Test Case 4 passed: Sign-Up button is visible and clickable
+2025-08-21 16:27:33 - TestGUVI - INFO - Executing Test Case 5: Verify Sign-Up navigation
+2025-08-21 16:27:41 - TestGUVI - INFO - Test Case 5 passed: Navigation to Sign-Up page successful
+2025-08-21 16:27:41 - TestGUVI - INFO - Executing Test Case 6: Verify invalid login
+2025-08-21 16:27:48 - TestGUVI - INFO - Test Case 6 passed: Invalid login handled correctly
+2025-08-21 16:27:48 - TestGUVI - INFO - Executing Test Case 7: Verify login functionality with valid credentials
+2025-08-21 16:28:04 - TestGUVI - INFO - Test Case 7 passed: Valid login successful
+2025-08-21 16:28:04 - TestGUVI - INFO - Executing Test Case 8: Verify menu items visibility
+2025-08-21 16:28:16 - TestGUVI - INFO - Test Case 8 passed: All menu items are visible
+2025-08-21 16:28:16 - TestGUVI - INFO - Executing Test Case 9: Verify Dobby Assistant
+2025-08-21 16:28:18 - TestGUVI - INFO - Element is visible: ('xpath', "//img[@id='chateleon-container-gif-0']")
+2025-08-21 16:28:18 - TestGUVI - INFO - Test Case 9 passed: Dobby Assistant is visible
+2025-08-21 16:28:18 - TestGUVI - INFO - Executing Test Case 10: Verify logout functionality
+2025-08-21 16:28:33 - TestGUVI - INFO - Test Case 10 passed: Logout functionality works correctly
+2025-08-21 16:28:33 - TestGUVI - INFO - Initiating WebDriver cleanup

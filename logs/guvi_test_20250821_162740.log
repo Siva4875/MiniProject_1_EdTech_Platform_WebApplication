@@ -1,0 +1,3 @@
+2025-08-21 16:27:40 - RegisterPage - INFO - RegisterPage initialized - ready for user registration
+2025-08-21 16:27:41 - RegisterPage - INFO - Element is visible: ('xpath', "//h2[contains(text(),'Sign Up')]")
+2025-08-21 16:27:41 - RegisterPage - INFO - Registration page loaded successfully

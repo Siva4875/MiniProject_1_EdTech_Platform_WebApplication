@@ -1,0 +1,38 @@
+2025-08-21 16:27:46 - LoginPage - INFO - LoginPage initialized
+2025-08-21 16:27:46 - LoginPage - INFO - Attempting login for user: invalid@example.com
+2025-08-21 16:27:46 - LoginPage - INFO - Entering email: invalid@example.com
+2025-08-21 16:27:46 - LoginPage - INFO - Attempting to find element: ('id', 'email')
+2025-08-21 16:27:46 - LoginPage - INFO - Entering password (masked for security)
+2025-08-21 16:27:46 - LoginPage - INFO - Attempting to find element: ('id', 'password')
+2025-08-21 16:27:46 - LoginPage - INFO - Attempting to click login button
+2025-08-21 16:27:47 - LoginPage - INFO - Successfully clicked element: ('xpath', "//a[@id='login-btn']")
+2025-08-21 16:27:47 - LoginPage - INFO - Login button clicked
+2025-08-21 16:27:47 - LoginPage - INFO - Login sequence completed
+2025-08-21 16:27:48 - LoginPage - INFO - Element is visible: ('xpath', "(//div[contains(@class,'invalid-feedback')])[2]")
+2025-08-21 16:27:48 - LoginPage - INFO - Attempting to find element: ('xpath', "(//div[contains(@class,'invalid-feedback')])[2]")
+2025-08-21 16:27:48 - LoginPage - INFO - Retrieved text 'Incorrect Email or Password' from element: ('xpath', "(//div[contains(@class,'invalid-feedback')])[2]")
+2025-08-21 16:27:48 - LoginPage - INFO - Retrieved error message: 'Incorrect Email or Password'
+2025-08-21 16:27:53 - LoginPage - INFO - LoginPage initialized
+2025-08-21 16:27:53 - LoginPage - INFO - Attempting login for user: Sivadsk14@gmail.com
+2025-08-21 16:27:53 - LoginPage - INFO - Entering email: Sivadsk14@gmail.com
+2025-08-21 16:27:53 - LoginPage - INFO - Attempting to find element: ('id', 'email')
+2025-08-21 16:27:53 - LoginPage - INFO - Entering password (masked for security)
+2025-08-21 16:27:53 - LoginPage - INFO - Attempting to find element: ('id', 'password')
+2025-08-21 16:27:53 - LoginPage - INFO - Attempting to click login button
+2025-08-21 16:27:54 - LoginPage - INFO - Successfully clicked element: ('xpath', "//a[@id='login-btn']")
+2025-08-21 16:27:54 - LoginPage - INFO - Login button clicked
+2025-08-21 16:27:54 - LoginPage - INFO - Login sequence completed
+2025-08-21 16:27:54 - LoginPage - INFO - Clicking profile icon
+2025-08-21 16:27:59 - LoginPage - INFO - Successfully clicked element: ('xpath', "//div[@id='dropdown_title']//img[@id='dropdown_contents']")
+2025-08-21 16:28:23 - LoginPage - INFO - LoginPage initialized
+2025-08-21 16:28:23 - LoginPage - INFO - Attempting login for user: Sivadsk14@gmail.com
+2025-08-21 16:28:23 - LoginPage - INFO - Entering email: Sivadsk14@gmail.com
+2025-08-21 16:28:23 - LoginPage - INFO - Attempting to find element: ('id', 'email')
+2025-08-21 16:28:23 - LoginPage - INFO - Entering password (masked for security)
+2025-08-21 16:28:23 - LoginPage - INFO - Attempting to find element: ('id', 'password')
+2025-08-21 16:28:24 - LoginPage - INFO - Attempting to click login button
+2025-08-21 16:28:24 - LoginPage - INFO - Successfully clicked element: ('xpath', "//a[@id='login-btn']")
+2025-08-21 16:28:24 - LoginPage - INFO - Login button clicked
+2025-08-21 16:28:24 - LoginPage - INFO - Login sequence completed
+2025-08-21 16:28:24 - LoginPage - INFO - Clicking profile icon
+2025-08-21 16:28:29 - LoginPage - INFO - Successfully clicked element: ('xpath', "//div[@id='dropdown_title']//img[@id='dropdown_contents']")

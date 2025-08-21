@@ -1,0 +1,45 @@
+2025-08-21 16:26:58 - HomePage - INFO - Initializing HomePage and navigating to https://www.guvi.in
+2025-08-21 16:27:03 - HomePage - INFO - Navigated to URL: https://www.guvi.in
+2025-08-21 16:27:03 - HomePage - INFO - Current URL: https://www.guvi.in/
+2025-08-21 16:27:03 - HomePage - INFO - Initializing HomePage and navigating to https://www.guvi.in
+2025-08-21 16:27:07 - HomePage - INFO - Navigated to URL: https://www.guvi.in
+2025-08-21 16:27:07 - HomePage - INFO - Page title: GUVI | Learn to code in your native language
+2025-08-21 16:27:07 - HomePage - INFO - Initializing HomePage and navigating to https://www.guvi.in
+2025-08-21 16:27:12 - HomePage - INFO - Navigated to URL: https://www.guvi.in
+2025-08-21 16:27:16 - HomePage - INFO - Element is visible: ('xpath', "(//a[contains(text(),'Login')])[2]")
+2025-08-21 16:27:16 - HomePage - INFO - Attempting to click Login button
+2025-08-21 16:27:22 - HomePage - INFO - Successfully clicked element: ('xpath', "(//a[contains(text(),'Login')])[2]")
+2025-08-21 16:27:22 - HomePage - INFO - Login button clicked successfully
+2025-08-21 16:27:22 - HomePage - INFO - Initializing HomePage and navigating to https://www.guvi.in
+2025-08-21 16:27:26 - HomePage - INFO - Navigated to URL: https://www.guvi.in
+2025-08-21 16:27:30 - HomePage - INFO - Element is visible: ('xpath', "//a[contains(text(),'Sign up')]")
+2025-08-21 16:27:30 - HomePage - INFO - Attempting to click Sign Up button
+2025-08-21 16:27:33 - HomePage - INFO - Successfully clicked element: ('xpath', "//a[contains(text(),'Sign up')]")
+2025-08-21 16:27:33 - HomePage - INFO - Sign Up button clicked successfully
+2025-08-21 16:27:33 - HomePage - INFO - Initializing HomePage and navigating to https://www.guvi.in
+2025-08-21 16:27:36 - HomePage - INFO - Navigated to URL: https://www.guvi.in
+2025-08-21 16:27:36 - HomePage - INFO - Attempting to click Sign Up button
+2025-08-21 16:27:40 - HomePage - INFO - Successfully clicked element: ('xpath', "//a[contains(text(),'Sign up')]")
+2025-08-21 16:27:40 - HomePage - INFO - Sign Up button clicked successfully
+2025-08-21 16:27:41 - HomePage - INFO - Initializing HomePage and navigating to https://www.guvi.in
+2025-08-21 16:27:44 - HomePage - INFO - Navigated to URL: https://www.guvi.in
+2025-08-21 16:27:44 - HomePage - INFO - Attempting to click Login button
+2025-08-21 16:27:46 - HomePage - INFO - Successfully clicked element: ('xpath', "(//a[contains(text(),'Login')])[2]")
+2025-08-21 16:27:46 - HomePage - INFO - Login button clicked successfully
+2025-08-21 16:27:48 - HomePage - INFO - Initializing HomePage and navigating to https://www.guvi.in
+2025-08-21 16:27:51 - HomePage - INFO - Navigated to URL: https://www.guvi.in
+2025-08-21 16:27:51 - HomePage - INFO - Attempting to click Login button
+2025-08-21 16:27:53 - HomePage - INFO - Successfully clicked element: ('xpath', "(//a[contains(text(),'Login')])[2]")
+2025-08-21 16:27:53 - HomePage - INFO - Login button clicked successfully
+2025-08-21 16:28:04 - HomePage - INFO - Element is visible: ('xpath', "(//a[contains(text(),'Login')])[2]")
+2025-08-21 16:28:04 - HomePage - INFO - Initializing HomePage and navigating to https://www.guvi.in
+2025-08-21 16:28:08 - HomePage - INFO - Navigated to URL: https://www.guvi.in
+2025-08-21 16:28:13 - HomePage - INFO - Element is visible: ('xpath', "(//a[contains(text(),'Courses')])[2]")
+2025-08-21 16:28:14 - HomePage - INFO - Element is visible: ('xpath', "//p[@id='liveclasseslink']")
+2025-08-21 16:28:15 - HomePage - INFO - Element is visible: ('xpath', "//p[@id='practiceslink']")
+2025-08-21 16:28:18 - HomePage - INFO - Initializing HomePage and navigating to https://www.guvi.in
+2025-08-21 16:28:21 - HomePage - INFO - Navigated to URL: https://www.guvi.in
+2025-08-21 16:28:21 - HomePage - INFO - Attempting to click Login button
+2025-08-21 16:28:23 - HomePage - INFO - Successfully clicked element: ('xpath', "(//a[contains(text(),'Login')])[2]")
+2025-08-21 16:28:23 - HomePage - INFO - Login button clicked successfully
+2025-08-21 16:28:33 - HomePage - INFO - Element is visible: ('xpath', "(//a[contains(text(),'Login')])[2]")
