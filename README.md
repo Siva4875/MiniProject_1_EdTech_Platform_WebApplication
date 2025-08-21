@@ -1,0 +1,2 @@
+# MiniProject_1_EdTech_Platform_WebApplication
+Automation Testing of EdTech Platform Web Application
