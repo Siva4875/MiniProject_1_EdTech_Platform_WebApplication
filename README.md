@@ -37,6 +37,14 @@ Prerequisites
 - Chrome and/or Firefox browsers
 - Internet connection
 
+
+Execution Steps
+
+- To Execute the application run the below command in the output terminal
+
+  pytest --html=report.html --self-contained-html
+
+
 This Project is:
 
 Page Object Model, Data Driven Framework, Selenium, Pytest, OOPS concepts, Explicit and Fluent waits, try-except-finally blocks, Exception handling, configuration and utility files are deployed.
